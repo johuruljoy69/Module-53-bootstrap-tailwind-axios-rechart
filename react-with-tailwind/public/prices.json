@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 30,
+        "features": [
+            "Access to gym facilities",
+            "Use of cardio equipment",
+            "Group fitness classes"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Premium Membership",
+        "price": 40,
+        "features": [
+            "All Basic Membership features",
+            "Access to premium gym facilities",
+            "Personal training sessions"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Student Membership",
+        "price": 50,
+        "features": [
+            "Access to gym facilities",
+            "Use of cardio equipment",
+            "Group fitness classes",
+            "Valid student ID required"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Family Membership",
+        "price": 60,
+        "features": [
+            "Access to gym facilities for up to 4 family members",
+            "Use of cardio equipment",
+            "Group fitness classes"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Corporate Membership",
+        "price": 70,
+        "features": [
+            "Access to gym facilities for up to 10 employees",
+            "Use of cardio equipment",
+            "Group fitness classes",
+            "Corporate discount"
+        ]
+    }
+]
